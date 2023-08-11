@@ -1,6 +1,3 @@
-# SkyPro_course_project.
-Using Prophet to predict conversion payment.
-
  # Мы хотим спрогнозировать  конверсию на следующий год
 
 ### В чем суть?
