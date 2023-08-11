@@ -13,6 +13,10 @@ Using Prophet to predict conversion payment.
 
 Файл с выгрузкой данных о посещениях сайта и покупках с указанием даты и времени посещения и покупки, а также — с указанием канала, из которого пришел потенциальный клиент. 
 
+[marketing_dataset.csv](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/342f3cf8-c29b-47ce-ba8e-1617219687b8/marketing_dataset.csv)
+
+**Каналы привлечения**
+
 **Каналы привлечения**
 
 1. органический трафик из поисковых систем
